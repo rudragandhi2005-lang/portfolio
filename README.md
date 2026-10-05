@@ -20,3 +20,4 @@ npm run build
 ```
 
 This version intentionally does not use `@vitejs/plugin-react`; Vite handles the JSX entry file directly, which avoids the missing-plugin error.
+# portfolio
